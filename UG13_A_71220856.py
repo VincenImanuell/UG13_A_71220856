@@ -1,7 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
-t.pensize(10)
+t.pensize(12)
 turtle.bgcolor('black')
 
 def angka8():
@@ -85,7 +85,7 @@ t.penup()
 t.left(90)
 t.forward(100)
 t.left(90)
-t.forward(300)
+t.forward(293)
 t.pendown()
 
 #huruf v
